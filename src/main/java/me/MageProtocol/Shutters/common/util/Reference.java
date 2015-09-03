@@ -6,8 +6,8 @@ package me.MageProtocol.Shutters.common.util;
 public class Reference
 {
 
-    public static final String MODID = "SpiritusMalus";
-    public static final String MODNAME = "Spiritus Malus";
+    public static final String MODID = "Shutters";
+    public static final String MODNAME = "Shutters";
 
     public static final String MAJOR_VERSION = "@MAJOR@";
     public static final String MINOR_VERSION = "@MINOR@";

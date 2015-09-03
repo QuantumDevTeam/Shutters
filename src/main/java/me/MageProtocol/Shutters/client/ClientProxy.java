@@ -1,5 +1,6 @@
 package me.MageProtocol.Shutters.client;
 
+import cpw.mods.fml.client.registry.ClientRegistry;
 import me.MageProtocol.Shutters.common.CommonProxy;
 
 /**
